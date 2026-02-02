@@ -1,1 +1,2 @@
-#fastbootd recovery for sm-t509
+#fastbootd for sm-t509
+This is a patched recovery that adds fastbootd to Samsung Galaxy tab a7 sm-t509
